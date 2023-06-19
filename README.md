@@ -1,6 +1,6 @@
 ### Oi, eu sou João Pedro Vassoler Michels. 👋
 
-- 📚 Cursando Técnico de Desenvolvimento de Sistemas.
+- 📚 Cursando Técnico de Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estudando HTML5, CSS e JavaScript.
 
 <div>
@@ -13,7 +13,6 @@
   <img align="center" alt="jpvassoler-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="jpvassoler-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jpvassoler-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jpvassoler-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
 ##  
