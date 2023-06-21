@@ -4,7 +4,7 @@
 - 🌱 Atualmente estudando HTML5, CSS e JavaScript.
 
 <div>
-  <a href="https://github.com/golerme">
+  <a href="https://github.com/jpvassoler">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jpvassoler&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpvassoler&layout=compact&langs_count=26&theme=dark"/>
 </div>  
